@@ -15,7 +15,8 @@
             "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
             "YayinAdi": "HSBC",
             "YayinTarihi": "2015-11-26T00:00:00Z"
-        },{
+        },
+        {
            "Id": "27",
             "HaberPkId": "1644003",
             "Baslik": "KASIM AYINDA TÜFE %8.10 İLE YILIN EN YÜKSEK SEVİYESİNDE",
@@ -30,14 +31,16 @@
             "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
             "YayinAdi": "Dünya",
             "YayinTarihi": "2015-12-26T00:00:00Z"
-        },{
+        },
+        {
            "Id": "29",
             "HaberPkId": "1741334",
             "Baslik": "2016'DA EKONOMİDE NELER OLACAK?",
             "Tag": "EKONOMİ,HEDEF,İTHALAT,İHRACAT",
             "YayinAdi": "Ekonomist",
             "YayinTarihi": "2015-12-27T00:00:00Z"
-        },{
+        },
+        {
            "Id": "30",
             "HaberPkId": "1768165",
             "Baslik": "EMTİA YATIRIMCILARI 2015'TE KAKAOYLA KAZANDI",
@@ -125,9 +128,5 @@
             "YayinAdi": "Dünya",
             "YayinTarihi": "2016-02-26T00:00:00Z"
         }
-        
-        
-       
     ]
 }
-
