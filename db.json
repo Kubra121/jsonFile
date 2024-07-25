@@ -15,37 +15,13 @@
             "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
             "YayinAdi": "HSBC",
             "YayinTarihi": "2015-11-26T00:00:00Z"
-        },
-        {
-          "Id": "28",
-            "HaberPkId": "1737259",
-            "Baslik": "YENİ YILDA KÜRESEL EKONOMİYİ SARSABİLECEK RİSKLER",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "Dünya",
-            "YayinTarihi": "2015-12-26T00:00:00Z"
-        },
-        {
-           "Id": "31",
-            "HaberPkId": "1786674",
-            "Baslik": "TÜSİAD,EGİAD,İHRACAT,AR-GE,İNOVASYON",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "Haber Türk Egeli",
-            "YayinTarihi": "2016-01-06T00:00:00Z"
         },{
-           "Id": "25",
-            "HaberPkId": "1596478",
-            "Baslik": "ASEAN ESTABLISHES LANDMARK ECONOMIC AND SECURITY BLOCK",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "Today s Zaman",
-            "YayinTarihi": "2015-11-23T00:00:00Z"
-        },
-        {
-           "Id": "26",
-            "HaberPkId": "1611325",
-            "Baslik": "KÜRESEL TİCARET DÖRDE KATLANACAK",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "HSBC",
-            "YayinTarihi": "2015-11-26T00:00:00Z"
+           "Id": "27",
+            "HaberPkId": "1644003",
+            "Baslik": "KASIM AYINDA TÜFE %8.10 İLE YILIN EN YÜKSEK SEVİYESİNDE",
+            "Tag": "TÜİK,ENFLASYON,TÜFE,EKONOMİ",
+            "YayinAdi": "Dünya",
+            "YayinTarihi": "2015-12-04T00:00:00Z"
         },
         {
           "Id": "28",
@@ -54,37 +30,20 @@
             "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
             "YayinAdi": "Dünya",
             "YayinTarihi": "2015-12-26T00:00:00Z"
-        },
-        {
-           "Id": "31",
-            "HaberPkId": "1786674",
-            "Baslik": "TÜSİAD,EGİAD,İHRACAT,AR-GE,İNOVASYON",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "Haber Türk Egeli",
-            "YayinTarihi": "2016-01-06T00:00:00Z"
         },{
-           "Id": "25",
-            "HaberPkId": "1596478",
-            "Baslik": "ASEAN ESTABLISHES LANDMARK ECONOMIC AND SECURITY BLOCK",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "Today s Zaman",
-            "YayinTarihi": "2015-11-23T00:00:00Z"
-        },
-        {
-           "Id": "26",
-            "HaberPkId": "1611325",
-            "Baslik": "KÜRESEL TİCARET DÖRDE KATLANACAK",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "HSBC",
-            "YayinTarihi": "2015-11-26T00:00:00Z"
-        },
-        {
-          "Id": "28",
-            "HaberPkId": "1737259",
-            "Baslik": "YENİ YILDA KÜRESEL EKONOMİYİ SARSABİLECEK RİSKLER",
-            "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
-            "YayinAdi": "Dünya",
-            "YayinTarihi": "2015-12-26T00:00:00Z"
+           "Id": "29",
+            "HaberPkId": "1741334",
+            "Baslik": "2016'DA EKONOMİDE NELER OLACAK?",
+            "Tag": "EKONOMİ,HEDEF,İTHALAT,İHRACAT",
+            "YayinAdi": "Ekonomist",
+            "YayinTarihi": "2015-12-27T00:00:00Z"
+        },{
+           "Id": "30",
+            "HaberPkId": "1768165",
+            "Baslik": "EMTİA YATIRIMCILARI 2015'TE KAKAOYLA KAZANDI",
+            "Tag": "EMTİA,KAKAO,PAMUK,ŞEKER,ÇİN,KAHVE,ALÜMİNYUM",
+            "YayinAdi": "Ayrıntılı Haber",
+            "YayinTarihi": "2016-01-02T00:00:00Z"
         },
         {
            "Id": "31",
@@ -93,7 +52,82 @@
             "Tag": "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
             "YayinAdi": "Haber Türk Egeli",
             "YayinTarihi": "2016-01-06T00:00:00Z"
+        },
+        {
+           "Id": "32",
+            "HaberPkId": ""1791884",
+            "Baslik": "EMTİA FİYAT İNDEKSİ TABLOSU VE ANALİZİ",
+            "Tag": "EMTİA,FİYAT",
+            "YayinAdi": "Subcon Turkey",
+            "YayinTarihi": "2016-01-07T00:00:00Z"
+        },
+        {
+           "Id": "33",
+            "HaberPkId": "1794436",
+            "Baslik": "EKONOMİ,BÜYÜME,ÇİN,RUSYA,BREZİLYA,HİNDİSTAN",
+            "Tag": "EMTİA,FİYAT",
+            "YayinAdi": "Dünya",
+            "YayinTarihi": "2016-01-07T00:00:00Z"
+        },
+        {
+           "Id": "34",
+            "HaberPkId": "1810614",
+            "Baslik": "PETROL FİYATLARINDA YÜKSELİŞ KAÇINILMAZ",
+            "Tag": "PETROL,FİYAT,YÜKSELİŞ,SEKTÖR",
+            "YayinAdi": "Dünya",
+            "YayinTarihi": "2016-01-11T00:00:00Z"
+        },
+        {
+           "Id": "35",
+            "HaberPkId": "1901222",
+            "Baslik": "EMTİA FİYATININ YÖNÜNÜ, ARTIK ÇİN YUAN’I BELİRLİYOR",
+            "Tag": "ÇİN,EMTİA,EKONOMİ,BAKIR,DEMİR",
+            "YayinAdi": "Dünya",
+            "YayinTarihi": "2016-02-02T00:00:00Z"
+        },
+        {
+           "Id": "36",
+            "HaberPkId": "1921230",
+            "Baslik": "JCR EURASIA RATING TAHMİNLERİNE GÖRE; 2016’DA İFLASLAR ARTACAK",
+            "Tag": "İFLAS,TAHMİN,EKONOMİ,İFLAS ERTELEME,TÜRKİYE",
+            "YayinAdi": "Türkiye de YeniÇağ",
+            "YayinTarihi": "2016-02-06T00:00:00Z"
+        },
+        {
+           "Id": "37",
+            "HaberPkId": "1932887",
+            "Baslik": "SANAYİ ÜRETİMİ SON ÇEYREKTE % 4,5 ARTTI, YÜZDE 5’İ AŞABİLİR",
+            "Tag": "SANAYİ,ÜRETİM,TÜİK,TEKSTİL,GIDA,PETROL,KİMYA,OTOMOTİV,METAL,MAKİNE,İHRACAT",
+            "YayinAdi": "Hürriyet",
+            "YayinTarihi": "2016-02-09T00:00:00Z"
+        },
+        {
+           "Id": "38",
+            "HaberPkId": "1978544",
+            "Baslik": "ELUSIVE GLOBAL GROWTH OUTLOOK REQUIRES URGENT POLICY RESPONSE",
+            "Tag": "ECONOMY,GLOBAL,TRADE,US,CANADA,BRAZIL,OECD",
+            "YayinAdi": "OECD",
+            "YayinTarihi": "2016-02-19T00:00:00Z"
+        },
+        {
+           "Id": "39",
+            "HaberPkId": "1992605",
+            "Baslik": "RESESYON RİSKİ ABD' YE GERİ DÖNÜYOR",
+            "Tag": "RESESYON,ABD,EKONOMİ",
+            "YayinAdi": "Dünya",
+            "YayinTarihi": "2016-02-23T00:00:00Z"
+        },
+        {
+           "Id": "40",
+            "HaberPkId": "2005121",
+            "Baslik": "GELİŞMİŞ EKONOMİLERDEKİ ZAYIFLIK KÜRESEL EKONOMİYİ BASKILAYACAK",
+            "Tag": "EKONOMİ,IMF,BÜYÜME,RAPOR,ÇİN,SURİYE,TAHMİN",
+            "YayinAdi": "Dünya",
+            "YayinTarihi": "2016-02-26T00:00:00Z"
         }
+        
+        
+       
     ]
 }
 
