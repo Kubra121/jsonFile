@@ -1,0 +1,44 @@
+{
+    "News": [
+        {
+            Id: "25",
+            HaberPkId: "1596478",
+            Baslik: "ASEAN ESTABLISHES LANDMARK ECONOMIC AND SECURITY BLOCK",
+            Tag: "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
+            YayinAdi: "Today s Zaman",
+            YayinTarihi: "2015-11-23T00:00:00Z"
+        },
+        {
+            Id: "26",
+            HaberPkId: "1611325",
+            Baslik: "KÜRESEL TİCARET DÖRDE KATLANACAK",
+            Tag: "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
+            YayinAdi: "HSBC",
+            YayinTarihi: "2015-11-26T00:00:00Z"
+        },
+        {
+            Id: "28",
+            HaberPkId: "1737259",
+            Baslik: "YENİ YILDA KÜRESEL EKONOMİYİ SARSABİLECEK RİSKLER",
+            Tag: "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
+            YayinAdi: "Dünya",
+            YayinTarihi: "2015-12-26T00:00:00Z"
+        },
+        {
+            Id: "31",
+            HaberPkId: "1786674",
+            Baslik: "TÜSİAD,EGİAD,İHRACAT,AR-GE,İNOVASYON",
+            Tag: "ASEAN COUNTRIES, SOUTHEAST ASIA, TARIFF, FREE TRADE AGREEMENT (FTA), GDP",
+            YayinAdi: "Haber Türk Egeli",
+            YayinTarihi: "2016-01-06T00:00:00Z"
+        },
+        {
+            Id: "32",
+            HaberPkId: "1791884",
+            Baslik: "EMTİA FİYAT İNDEKSİ TABLOSU VE ANALİZİ",
+            Tag: "EMTİA,FİYAT"
+            YayinAdi: "Subcon Turkey",
+            YayinTarihi: "2016-01-07T00:00:00Z"
+        }
+    ]
+}
